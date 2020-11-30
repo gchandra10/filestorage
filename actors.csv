@@ -1,6 +1,6 @@
-id,Name,Gender,Profession,state,asOfDate,temperature,pulse
-1,Rachel Green,Female,Designer,NY,2020-11-01,98.4,60
-2,Sheldon Cooper,Male,Physicist,CA,2020-11-05,98.5,70
-3,Penny,Female,Waitress,CA,2020-11-15,99.2,75
-4,George Costanza,Male,Agent,NJ,2020-05-05,98.7,90
-5,Jerry Seinfeld,Male,Comedian,NY,2020-01-01,98.6,65
+id,Name,Gender,Profession,state
+1,Rachel Green,Female,Designer,NY
+2,Sheldon Cooper,Male,Physicist,CA
+3,Penny,Female,Waitress,CA
+4,George Costanza,Male,Agent,NJ
+5,Jerry Seinfeld,Male,Comedian,NY
